@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setTitle("I like this");
         
-        //집에서 작업한거 학원와서 이어서 작업하고 싶을 
+        //집에서 작업한거 학원와서 이어서 작업하고 싶을
+        //내가 원하는 추가 작업
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true); //back 버튼 
     }
 }
