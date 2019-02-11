@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportActionBar().setTitle("I like this");
+        
+        //집에서 작업한거 학원와서 이어서 작업하고 싶을 
     }
 }
